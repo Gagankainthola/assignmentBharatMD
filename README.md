@@ -10,7 +10,7 @@ npm install
 Create a **.env** file in the root folder and add the following:
 ```env
 PORT=3000
-MONGO_URI=mongodb+srv://your_user:your_pass@cluster.mongodb.net/faqdb
+MONGO_URI= your mongo url
 REDIS_SECRET="YOUR REDIS SECRET
 ```
 
